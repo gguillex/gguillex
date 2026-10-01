@@ -63,30 +63,28 @@ text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"DejaVu Sa
 <text class="art" x="22 27.4 32.8 38.2 43.6 49 54.4 59.8 65.2 200.2 205.6 275.8 281.2 286.6 292 297.4 302.8 308.2 313.6 319 324.4 329.8 335.2 340.6" y="483.6">:=@@@@@@...@@@@@@@@@@@@+</text>
 <text class="art" x="22 27.4 32.8 38.2 43.6 49 54.4 59.8 65.2 270.4 275.8 281.2 286.6 292 297.4 302.8 308.2 313.6 319 324.4 329.8 335.2 340.6" y="494.4">@@@@@@@@=:@@@@@@@@@@@@@</text>
 </g>
-<text x="380" y="145.9" class="ln" style="animation-delay:5.02s"><tspan fill="#3fb8a0" font-weight="700">guillermo</tspan><tspan fill="#c9d1d9" font-weight="700">@</tspan><tspan fill="#3fb8a0" font-weight="700">github</tspan></text>
-<text x="380" y="163.4" class="ln" style="animation-delay:5.08s"><tspan fill="#8b949e" font-weight="700">────────────────</tspan></text>
-<text x="380" y="180.9" class="ln" style="animation-delay:5.14s"><tspan class="k">Nombre</tspan><tspan class="v">:</tspan></text>
-<text x="481.4" y="180.9" class="v ln" style="animation-delay:5.14s">Guillermo García</text>
-<text x="380" y="198.4" class="ln" style="animation-delay:5.20s"><tspan class="k">Estudios</tspan><tspan class="v">:</tspan></text>
-<text x="481.4" y="198.4" class="v ln" style="animation-delay:5.20s">Ing. Informática @ UCAM (2027)</text>
-<text x="380" y="233.4" class="ln" style="animation-delay:5.32s"><tspan class="k">Lenguajes</tspan><tspan class="v">:</tspan></text>
-<text x="481.4" y="233.4" class="v ln" style="animation-delay:5.32s">Java · C/C++ · PHP · JS · SQL · Python</text>
-<text x="380" y="250.9" class="ln" style="animation-delay:5.38s"><tspan class="k">Backend</tspan><tspan class="v">:</tspan></text>
-<text x="481.4" y="250.9" class="v ln" style="animation-delay:5.38s">Jakarta EE · APIs REST · Tomcat</text>
-<text x="380" y="268.4" class="ln" style="animation-delay:5.44s"><tspan class="k">Calidad</tspan><tspan class="v">:</tspan></text>
-<text x="481.4" y="268.4" class="v ln" style="animation-delay:5.44s">JUnit 5 · Maven · Git · GitHub Actions</text>
-<text x="380" y="285.9" class="ln" style="animation-delay:5.50s"><tspan class="k">HPC</tspan><tspan class="v">:</tspan></text>
-<text x="481.4" y="285.9" class="v ln" style="animation-delay:5.50s">CUDA · OpenMP · Sockets TCP · Java RMI</text>
-<text x="380" y="303.4" class="ln" style="animation-delay:5.56s"><tspan class="k">BBDD</tspan><tspan class="v">:</tspan></text>
-<text x="481.4" y="303.4" class="v ln" style="animation-delay:5.56s">MySQL / MariaDB · Oracle</text>
-<text x="380" y="320.9" class="ln" style="animation-delay:5.62s"><tspan class="k">Seguridad</tspan><tspan class="v">:</tspan></text>
-<text x="481.4" y="320.9" class="v ln" style="animation-delay:5.62s">Kali · Nmap · Metasploit · CTF</text>
-<text x="380" y="355.9" class="ln" style="animation-delay:5.74s"><tspan class="k">Destacado</tspan><tspan class="v">:</tspan></text>
-<text x="481.4" y="355.9" class="v ln" style="animation-delay:5.74s">CUDA ≈376× más rápido en GPU</text>
-<text x="380" y="390.9" class="ln" style="animation-delay:5.86s"><tspan class="k">LinkedIn</tspan><tspan class="v">:</tspan></text>
-<text x="481.4" y="390.9" class="v ln" style="animation-delay:5.86s">in/guillermo-garcia-engineer</text>
-<text x="380" y="408.4" class="ln" style="animation-delay:5.92s"><tspan class="k">Email</tspan><tspan class="v">:</tspan></text>
-<text x="481.4" y="408.4" class="v ln" style="animation-delay:5.92s">gguillegarciaa@gmail.com</text>
-<g class="ln" style="animation-delay:6.04s"><rect x="380" y="431.4" width="23.4" height="15" fill="#ff5f57"/><rect x="403.4" y="431.4" width="23.4" height="15" fill="#28c840"/><rect x="426.8" y="431.4" width="23.4" height="15" fill="#febc2e"/><rect x="450.2" y="431.4" width="23.4" height="15" fill="#3a6bc9"/><rect x="473.6" y="431.4" width="23.4" height="15" fill="#bc8cff"/><rect x="497" y="431.4" width="23.4" height="15" fill="#3fb8a0"/><rect x="520.4" y="431.4" width="23.4" height="15" fill="#c9d1d9"/></g>
-<g class="ln" style="animation-delay:6.30s"><text x="22" y="531.2"><tspan class="p">guillermo@github</tspan><tspan class="v">:</tspan><tspan class="k">~</tspan><tspan class="v">$ </tspan></text><rect class="cur" x="178" y="520.2" width="7.8" height="15" fill="#c9d1d9"/></g>
+<text x="380" y="154.6" class="ln" style="animation-delay:5.02s"><tspan fill="#3fb8a0" font-weight="700">guillermo</tspan><tspan fill="#c9d1d9" font-weight="700">@</tspan><tspan fill="#3fb8a0" font-weight="700">github</tspan></text>
+<text x="380" y="172.1" class="ln" style="animation-delay:5.08s"><tspan fill="#8b949e" font-weight="700">────────────────</tspan></text>
+<text x="380" y="189.6" class="ln" style="animation-delay:5.14s"><tspan class="k">Nombre</tspan><tspan class="v">:</tspan></text>
+<text x="481.4" y="189.6" class="v ln" style="animation-delay:5.14s">Guillermo García</text>
+<text x="380" y="224.6" class="ln" style="animation-delay:5.26s"><tspan class="k">Lenguajes</tspan><tspan class="v">:</tspan></text>
+<text x="481.4" y="224.6" class="v ln" style="animation-delay:5.26s">Java · C/C++ · PHP · JS · SQL · Python</text>
+<text x="380" y="242.1" class="ln" style="animation-delay:5.32s"><tspan class="k">Backend</tspan><tspan class="v">:</tspan></text>
+<text x="481.4" y="242.1" class="v ln" style="animation-delay:5.32s">Jakarta EE · APIs REST · Tomcat</text>
+<text x="380" y="259.6" class="ln" style="animation-delay:5.38s"><tspan class="k">Calidad</tspan><tspan class="v">:</tspan></text>
+<text x="481.4" y="259.6" class="v ln" style="animation-delay:5.38s">JUnit 5 · Maven · Git · GitHub Actions</text>
+<text x="380" y="277.1" class="ln" style="animation-delay:5.44s"><tspan class="k">HPC</tspan><tspan class="v">:</tspan></text>
+<text x="481.4" y="277.1" class="v ln" style="animation-delay:5.44s">CUDA · OpenMP · Sockets TCP · Java RMI</text>
+<text x="380" y="294.6" class="ln" style="animation-delay:5.50s"><tspan class="k">BBDD</tspan><tspan class="v">:</tspan></text>
+<text x="481.4" y="294.6" class="v ln" style="animation-delay:5.50s">MySQL / MariaDB · Oracle</text>
+<text x="380" y="312.1" class="ln" style="animation-delay:5.56s"><tspan class="k">Seguridad</tspan><tspan class="v">:</tspan></text>
+<text x="481.4" y="312.1" class="v ln" style="animation-delay:5.56s">Kali · Nmap · Metasploit · CTF</text>
+<text x="380" y="347.1" class="ln" style="animation-delay:5.68s"><tspan class="k">Destacado</tspan><tspan class="v">:</tspan></text>
+<text x="481.4" y="347.1" class="v ln" style="animation-delay:5.68s">CUDA ≈376× más rápido en GPU</text>
+<text x="380" y="382.1" class="ln" style="animation-delay:5.80s"><tspan class="k">LinkedIn</tspan><tspan class="v">:</tspan></text>
+<text x="481.4" y="382.1" class="v ln" style="animation-delay:5.80s">in/guillermo-garcia-engineer</text>
+<text x="380" y="399.6" class="ln" style="animation-delay:5.86s"><tspan class="k">Email</tspan><tspan class="v">:</tspan></text>
+<text x="481.4" y="399.6" class="v ln" style="animation-delay:5.86s">gguillegarciaa@gmail.com</text>
+<g class="ln" style="animation-delay:5.98s"><rect x="380" y="422.6" width="23.4" height="15" fill="#ff5f57"/><rect x="403.4" y="422.6" width="23.4" height="15" fill="#28c840"/><rect x="426.8" y="422.6" width="23.4" height="15" fill="#febc2e"/><rect x="450.2" y="422.6" width="23.4" height="15" fill="#3a6bc9"/><rect x="473.6" y="422.6" width="23.4" height="15" fill="#bc8cff"/><rect x="497" y="422.6" width="23.4" height="15" fill="#3fb8a0"/><rect x="520.4" y="422.6" width="23.4" height="15" fill="#c9d1d9"/></g>
+<g class="ln" style="animation-delay:6.24s"><text x="22" y="531.2"><tspan class="p">guillermo@github</tspan><tspan class="v">:</tspan><tspan class="k">~</tspan><tspan class="v">$ </tspan></text><rect class="cur" x="178" y="520.2" width="7.8" height="15" fill="#c9d1d9"/></g>
 </svg>
